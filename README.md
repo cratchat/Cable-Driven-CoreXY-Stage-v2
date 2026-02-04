@@ -30,8 +30,5 @@ The base plate is **not symmetrical**. Correct orientation must be verified befo
 
 ## 📦 Bill of Materials (BOM)
 
-The full BOM, including quantities used and provided (with spares), is available here:
-
-docs/bom/
-├─ CoreXY_Set_v2_BOM.xlsx
+The full BOM, including quantities used and provided (with spares), is available here: Assembly Manual/CoreXYAssemblyManual.pdf
 
