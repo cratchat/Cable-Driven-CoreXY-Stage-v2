@@ -28,6 +28,11 @@ The base plate is **not symmetrical**. Correct orientation must be verified befo
 
 ---
 
+## 📐 CAD model
+
+The fusion 360 assemble model is available here: CAD/CoreXYAssembly.f3z
+
+---
 ## 📦 Bill of Materials (BOM)
 
 The full BOM, including quantities used and provided (with spares), is available here: Assembly Manual/CoreXYAssemblyManual.pdf
